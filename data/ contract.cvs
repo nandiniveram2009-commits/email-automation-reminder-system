@@ -1,0 +1,6 @@
+contact_id,name,email,department,company,status
+C001,Aarav Sharma,aarav.sharma@example.com,Operations,FinEdge Corp,active
+C002,Priya Nair,priya.nair@example.com,HR,CloudNova Ltd,active
+C003,Rohan Verma,rohan.verma@example.com,Sales,BrightPath Inc,active
+C004,Sneha Kulkarni,sneha.k@example.com,Finance,Vertex Solutions,inactive
+C005,Ananya Roy,ananya.roy@example.com,Training,SkillBridge Academy,active
