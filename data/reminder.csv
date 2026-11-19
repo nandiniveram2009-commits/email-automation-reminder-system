@@ -1,0 +1,6 @@
+reminder_id,email,reminder_type,template_name,event_title,due_date,frequency,schedule_time,amount,active
+R001,aarav.sharma@example.com,Meeting,meeting_reminder.txt,Weekly Operations Sync,2025-05-20,daily,09:00,N/A,yes
+R002,priya.nair@example.com,Task Follow-up,task_followup.txt,Submit Q2 Onboarding Checklist,2025-05-22,once,10:30,N/A,yes
+R003,rohan.verma@example.com,Payment,payment_reminder.txt,Invoice #INV-2048 Settlement,2025-05-25,weekly,11:00,$1250,yes
+R004,sneha.k@example.com,Payment,payment_reminder.txt,Invoice #INV-2050 Settlement,2025-05-26,once,12:00,$800,yes
+R005,ananya.roy@example.com,Meeting,meeting_reminder.txt,Python Cohort Live Workshop,2025-05-21,once,18:00,N/A,yes
