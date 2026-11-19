@@ -1,0 +1,14 @@
+Subject: Reminder: {event_title} on {due_date}
+
+Hi {name},
+
+This is an automated reminder from the {department} workflow system for {company}.
+
+Event: {event_title}
+Scheduled Date: {due_date}
+Scheduled Time: {schedule_time}
+
+Please ensure you join 5 minutes early and review the agenda beforehand.
+
+Best regards,
+{sender_name}
