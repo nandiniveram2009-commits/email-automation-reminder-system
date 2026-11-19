@@ -1,0 +1,14 @@
+Subject: Action Required: Payment Reminder for {event_title}
+
+Dear {name},
+
+This is a friendly reminder regarding your upcoming payment for {company}.
+
+Reference: {event_title}
+Amount Due: {amount}
+Due Date: {due_date}
+
+If you have already processed this payment, please disregard this automated alert.
+
+Regards,
+{sender_name}
