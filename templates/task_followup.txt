@@ -1,0 +1,13 @@
+Subject: Follow-up: {event_title} (Due {due_date})
+
+Hello {name},
+
+Hope your week at {company} is going well! This is a quick automated follow-up on:
+
+Task: {event_title}
+Target Completion Date: {due_date}
+
+Please update the tracker once completed.
+
+Thanks,
+{sender_name}
